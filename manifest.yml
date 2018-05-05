@@ -6,7 +6,5 @@ applications:
   name: bsjun-devOps-handson
   host: bsjun-devOps-handson
   disk_quota: 384M
-  services:
-  - bsjun-cloudant-handson
   env:
     APP_PREFIX: bsjun
