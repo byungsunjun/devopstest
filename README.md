@@ -4,6 +4,3 @@ for test
 test
 test
 test
-test
-testet
-test
