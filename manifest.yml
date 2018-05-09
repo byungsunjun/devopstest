@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: bsjun-devOps-handson
-  host: bsjun-devOps-handson
+  name: ${APP_PREFIX}-bsjun-devOps-handson
+  host: ${APP_PREFIX}-bsjun-devOps-handson
   disk_quota: 384M
   env:
-    APP_PREFIX: bsjun
+    APP_PREFIX: ${APP_PREFIX}
