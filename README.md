@@ -6,7 +6,3 @@ test
 test
 test
 testet
-test
-setes
-test
-test
